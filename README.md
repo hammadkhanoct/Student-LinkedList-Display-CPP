@@ -1,0 +1,2 @@
+# Student-LinkedList-Display-CPP
+ This C++ program demonstrates the implementation of a linked list to manage student information. Each node in the linked list represents a student, containing details such as name, roll number, and marks. The program initializes a linked list with sample student data and provides a function to display the information. This project serves as a basic example for educational purposes, showcasing the fundamentals of linked list data structures in C++.
